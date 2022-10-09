@@ -12,7 +12,7 @@ Welcome and make yourself at home.  (:
 <img title="Apple" alt="Apple" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/undefined/external-apple-inc-logotype-of-an-american-multinational-technology-company-logo-bold-tal-revivo.png" width="55" height="55" />
 <img title="Swift" alt="Swift" src="https://img.icons8.com/color/48/undefined/swift.png" width="55" height="55" />
 <img title="SwiftUI" alt="SwiftUI" src="https://img.icons8.com/color/48/undefined/swiftui.png" width="55" height="55" />
-<img title="Python" alt="Python" src="https://img.icons8.com/color/48/undefined/python--v1.png" width="40" height="40" />
+<img title="Python" alt="Python" src="https://img.icons8.com/color/48/undefined/python--v1.png" width="55" height="55" />
 </div>
 
 ## Programming languages i know:
