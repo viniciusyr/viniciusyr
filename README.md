@@ -12,12 +12,11 @@ Welcome and make yourself at home.  (:
 <img title="Apple" alt="Apple" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/undefined/external-apple-inc-logotype-of-an-american-multinational-technology-company-logo-bold-tal-revivo.png" width="55" height="55" />
 <img title="Swift" alt="Swift" src="https://img.icons8.com/color/48/undefined/swift.png" width="55" height="55" />
 <img title="SwiftUI" alt="SwiftUI" src="https://img.icons8.com/color/48/undefined/swiftui.png" width="55" height="55" />
-<img title ="Java" alt="Java" src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png" widht="55" height="55" />
+<img title="Python" alt="Python" src="https://img.icons8.com/color/48/undefined/python--v1.png" width="40" height="40" />
 </div>
 
-## Programming languages I've worked with
+## Programming languages i know:
 <div style="display: inline_block">
-<img title="Python" alt="Python" src="https://img.icons8.com/color/48/undefined/python--v1.png" width="40" height="40" />
 <img title="Kotlin" alt="Kotlin" src="https://img.icons8.com/color/48/undefined/kotlin.png" width="40" height="40" />
 <img title="Flutter" alt="Flutter" src="https://img.icons8.com/color/48/undefined/flutter.png" width="45" height="45" />
 </div>
