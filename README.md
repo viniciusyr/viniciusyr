@@ -7,8 +7,8 @@
 
 ## My main skills
 <div style="display: inline_block">
-<img title="Java" alt="Java" src="[https://img.icons8.com/fluency/512/java-logo.png](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)" width="55" height="55" />
-<img title="Python" alt="Python" src="https://img.icons8.com/color/48/undefined/python--v1.png" width="55" height="55" />
+<img title="Java" alt="Java" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="55" height="55" />
+<img title="JavaScript" alt="JS" src="https://img.icons8.com/color/48/javascript--v1.png" width="55" height="55" />
 </div>
 
 ##
