@@ -14,9 +14,3 @@
   <img width="50" height="50" src="https://img.icons8.com/color/480/amazon-web-services.png" alt="amazon-web-services"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
 </div>
-
-##
- 
- [![VINICIUS's github stats](https://github-readme-stats.vercel.app/api?username=viniciusyr&show_icons=true&theme=github_dark)](https://github.com/viniciusyr)
- <br />
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusyr&layout=compact&theme=github_dark)](https://github.com/viniciusyr/github-readme-stats)
